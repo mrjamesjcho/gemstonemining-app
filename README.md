@@ -1,1 +1,1 @@
-# gemstonemining-app
+# Gemstone Mining App
